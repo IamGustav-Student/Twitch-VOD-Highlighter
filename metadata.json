@@ -1,0 +1,7 @@
+{
+  "name": "Twitch VOD Highlighter",
+  "description": "An application that uses AI to find and suggest highlights from Twitch VODs, providing timestamps and descriptions for exciting moments.",
+  "requestFramePermissions": [
+    "display-capture"
+  ]
+}
